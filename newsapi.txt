@@ -1,0 +1,4 @@
+
+NewsApi:
+email: nikhilgaur3@rocketmail.com
+API Key: 0c8b8ea8354d4f58a9d3c522df60e04a
